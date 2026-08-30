@@ -5,24 +5,24 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T277
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** Dr Doom <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   | Aakash Gs               | CB.SC.U4AIE24101       | Male            | School of Artificial Intelligence |  
+|    Member 2     | Sree Harshith           | CB.SC.U4AIE24053       | Male            | School of Artificial Intelligence |  
+|    Member 3     | THARUN PV               | CB.SC.U4AIE24037       | Male            | School of Artificial Intelligence |  
+|    Member 4     | MITHUL AKSHAY           | CB.SC.U4AIE24135       | Male            | School of Artificial Intelligence |   
+|    Member 5     | PRAPANJAN I             | CB.AI.U4AID24140       | Male            | School of Artificial Intelligence |  
+|    Member 6     | NILA B                  | CB.SC.U4AIE24035       | Female          | School of Artificial Intelligence |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       | Anjana Sankar       | Assistant Professor (OC) | School of Artificial Intelligence | s_anjana1@cb.amrita.edu  |
 | Industry       |                     |                       |                         |                          |
 
 -----
@@ -31,14 +31,14 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:** SIH26104
+* **Problem Statement Title:** Voice cloning impersonation detection
+* **Theme / Category:** 
+* **Ministry / Organization:** AICTE
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
+* **Problem Statement ID:** SIH26045
+* **Problem Statement Title:** IP-SAKTI: multilingual RAG-based AI assistant for IP/regulatory guidance in Ayurveda
 * **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Ministry / Organization:** Ministry of Ayush
