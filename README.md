@@ -33,12 +33,12 @@
 
 * **Problem Statement ID:** SIH26104
 * **Problem Statement Title:** Voice cloning impersonation detection
-* **Theme / Category:** Blockchain & Cybersecurity
+* **Theme / Category:** Blockchain & Cybersecurity / Software
 * **Ministry / Organization:** AICTE
 
 #### PS#2
 
 * **Problem Statement ID:** SIH26045
 * **Problem Statement Title:** IP-SAKTI: multilingual RAG-based AI assistant for IP/regulatory guidance in Ayurveda
-* **Theme / Category:** Toys & Games
+* **Theme / Category:** Toys & Games / Software
 * **Ministry / Organization:** Ministry of Ayush
