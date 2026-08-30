@@ -40,5 +40,5 @@
 
 * **Problem Statement ID:** SIH26045
 * **Problem Statement Title:** IP-SAKTI: multilingual RAG-based AI assistant for IP/regulatory guidance in Ayurveda
-* **Theme / Category:** Toys & Games / Software
+* **Theme / Category:** MedTech / BioTech / HealthTech / Software
 * **Ministry / Organization:** Ministry of Ayush
