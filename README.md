@@ -13,8 +13,8 @@
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   | Aakash Gs               | CB.SC.U4AIE24101       | Male            | School of Artificial Intelligence |  
 |    Member 2     | Sree Harshith S          | CB.SC.U4AIE24053       | Male            | School of Artificial Intelligence |  
-|    Member 3     | THARUN PV               | CB.SC.U4AIE24037       | Male            | School of Artificial Intelligence |  
-|    Member 4     | MITHUL AKSHAY           | CB.SC.U4AIE24135       | Male            | School of Artificial Intelligence |   
+|    Member 3     | THARUN P V               | CB.SC.U4AIE24037       | Male            | School of Artificial Intelligence |  
+|    Member 4     | MITHUL AKSHAY A M        | CB.SC.U4AIE24135       | Male            | School of Artificial Intelligence |   
 |    Member 5     | PRAPANJAN I             | CB.AI.U4AID24140       | Male            | School of Artificial Intelligence |  
 |    Member 6     | NILA B                  | CB.SC.U4AIE24035       | Female          | School of Artificial Intelligence |   
 
